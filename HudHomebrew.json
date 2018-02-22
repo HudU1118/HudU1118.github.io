@@ -40,6 +40,36 @@
         "link": "https://www.dropbox.com/s/ok5y51bkamuhyfz/Bio%20Force%20Ape.nes?dl=1",
         "boxart": "https://www.retrogamecases.com/wp-content/uploads/nes_bioforceape_front.png",
         "system": "NES"
+      },
+      {
+        "name": "Pitfall! The Unofficial Adventure",
+        "link": "https://www.dropbox.com/s/8vtr0ox4co43t02/Pitfall%21.nes?dl=1",
+        "boxart": "https://www.retro-online.com/nes/img/41329.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "DPAD Hero: Guitar Hero NES",
+        "link": "https://www.dropbox.com/s/ucqao9zoirp1qe9/dpadhero.nes?dl=1",
+        "boxart": "http://i.retroachievements.org/Images/004502.png",
+        "system": "NES"
+      },
+      {
+        "name": "DPAD Hero 2",
+        "link": "https://www.dropbox.com/s/q4ideq4418vh2kj/dpadhero2.nes?dl=1",
+        "boxart": "http://www.vizzed.com/videogames/nes/thumbs/D-Pad%20Hero%202-full.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Super Bat Puncher DEMO",
+        "link": "https://www.dropbox.com/s/bvosd4y2ktg6ivk/Super%20Bat%20Puncher%20Demo.nes?dl=1",
+        "boxart": "http://2.bp.blogspot.com/-azqXNFG8Rjw/VagMODJAtqI/AAAAAAAACJs/cyp_guzSLYA/s640/images.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Super Mario Unlimited",
+        "link": "https://www.dropbox.com/s/jmmvy77ir7pbsqo/Super%20Mario%20Bros.%20-%20Unlimited.nes?dl=1",
+        "boxart": "http://i.retroachievements.org/Images/010344.png",
+        "system": "NES"
         }
       ]
     }
