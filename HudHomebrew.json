@@ -1,0 +1,47 @@
+{
+  "reponame": "Hud's Homebrew Library",
+  "repologo": "https://i.pinimg.com/736x/90/3d/ca/903dca6ed5bdc102681b84a101e5725c--alphabet-design-sign-writing.jpg",
+  "repoauthor": "HudU",
+  "repodesc": "Homebrew games are cool",
+  "categories": [{
+      "categoryname": "NES",
+      "games": [{
+        "name": "New Super Mario 3 Hack",
+        "link": "https://www.dropbox.com/s/9nhghm7h7vu9tqf/New%20Super%20Mario%20Bros%203.nes?dl=1",
+        "boxart": "https://orig00.deviantart.net/2467/f/2012/179/7/c/super_mario_bros_3_cover_by_sakis25-d556ki3.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Sonic NES",
+        "link": "https://www.dropbox.com/s/qpg2ztdgzhqitkw/Sonic.nes?dl=1",
+        "boxart": "https://pre00.deviantart.net/e9d6/th/pre/i/2017/008/6/5/sonic_the_hedgehog_nes_cover_by_saturnphoenix-dauoiq6.png",
+        "system": "NES"
+      },
+      {
+        "name": "Excitebike 2 Hack",
+        "link": "https://www.dropbox.com/s/0jdgxh72maf5rvb/Excitebike%202.nes?dl=1",
+        "boxart": "https://www.gamereproductions.com/images/detailed/1/Excitebike_2small.jpg",
+        "system": "NES"
+      },
+            {
+        "name": "Battle Kid",
+        "link": "https://www.dropbox.com/s/drf1szth2f36tgc/Battle%20Kid%20-%20Fortress%20of%20Peril.nes?dl=1",
+        "boxart": "http://takeontheneslibrary.com/wp-content/uploads/2016/06/battlekid_160440_front.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Battle Kid 2",
+        "link": "https://www.dropbox.com/s/cmg7b4zf1w1dgm2/Battle%20Kid%202%20-%20Mountain%20of%20Torment.nes?dl=1",
+        "boxart": "http://sivak.nintendoage.com/img/labels/BK2label.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Bioforce Ape Prototype",
+        "link": "https://www.dropbox.com/s/ok5y51bkamuhyfz/Bio%20Force%20Ape.nes?dl=1",
+        "boxart": "https://www.retrogamecases.com/wp-content/uploads/nes_bioforceape_front.png",
+        "system": "NES"
+        }
+      ]
+    }
+  ]
+}
