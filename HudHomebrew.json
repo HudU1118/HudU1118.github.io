@@ -2,7 +2,7 @@
   "reponame": "Hud's Homebrew Library",
   "repologo": "https://yt3.ggpht.com/-QURTgm4y_9s/AAAAAAAAAAI/AAAAAAAAAAA/q2czvRwoCBM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
   "repoauthor": "HudU",
-  "repodesc": "Homebrew games are cool",
+  "repodesc": "Retro gaming at its finest.",
   "categories": [{
       "categoryname": "NES",
       "games": [{
@@ -69,6 +69,18 @@
         "name": "Super Mario Unlimited",
         "link": "https://www.dropbox.com/s/jmmvy77ir7pbsqo/Super%20Mario%20Bros.%20-%20Unlimited.nes?dl=1",
         "boxart": "http://i.retroachievements.org/Images/010344.png",
+        "system": "NES"
+      },
+      {
+        "name": "Super Mario Adventure",
+        "link": "https://www.dropbox.com/s/j72f8nin0sagey1/Mario%20Adventure.nes?dl=1",
+        "boxart": "https://gamefiles.alphacoders.com/boxart/original/front/26633-1.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Zelda Outlands",
+        "link": "https://www.dropbox.com/s/dvk9gp0wx6uppdd/Zelda%20Outlands.nes?dl=1",
+        "boxart": "https://retrogameman.files.wordpress.com/2016/09/zeldaol.jpg?w=1833&h=2541",
         "system": "NES"
         }
       ]
