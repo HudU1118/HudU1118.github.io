@@ -82,6 +82,24 @@
         "link": "https://www.dropbox.com/s/dvk9gp0wx6uppdd/Zelda%20Outlands.nes?dl=1",
         "boxart": "https://retrogameman.files.wordpress.com/2016/09/zeldaol.jpg",
         "system": "NES"
+      },
+      {
+        "name": "AlterEgo",
+        "link": "https://www.dropbox.com/s/in4p87ec5gw1e61/Alter_Ego.nes?dl=1",
+        "boxart": "http://shiru.untergrund.net/temp1/alter_ego_label.png",
+        "system": "NES"
+      },
+      {
+        "name": "DABG",
+        "link": "https://www.dropbox.com/s/s19fitf9hviu231/dabg.nes?dl=1",
+        "boxart": "http://nesdevcompo.nintendoage.com/images/2014/34.png",
+        "system": "NES"
+      },
+      {
+        "name": "Eskimo Bob",
+        "link": "https://www.dropbox.com/s/tb5t9ee0yjak1zs/Eskimo%20Bob%20NES%20-%20Demo.nes?dl=1",
+        "boxart": "https://www.spoonybard.ca/wp-content/uploads/2017/06/eskimobob-51.png",
+        "system": "NES"
         }
       ]
     }
