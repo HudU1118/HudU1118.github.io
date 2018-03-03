@@ -1,0 +1,38 @@
+{
+  "name": "N.E.S.C.I",
+  "logo": "https://png.icons8.com/color/1600/nintendo-entertainment-system.png",
+  "author": "HudU",
+  "description": "Your favorite classic console",
+  "styles": [
+    {
+      "header": "background-color:#222222!important;color:white!important",
+      "label": "color: #e0e0e0!important",
+      "button": "color: #f75558!important",
+      "alert": "",
+      "containerBackground": "background-color: #1e1e1e;color: #e0e0e0",
+      "cell": "background-color:#222222;color: #e0e0e0",
+      "cellChevron": "color: #e0e0e0",
+      "toolbar": "background-color:#222222;color:white",
+      "emulatorBackground": "background: url(https://s3.amazonaws.com/wix-anyfile/KnR0TwRgRkCT48sJhln7_NCLIPSE.jpg); background-repeat: no-repeat; background-size:cover; background-position-y: bottom; background-position-x: center;",
+      "gradient": "background-image: linear-gradient(-180deg, #1e1e1e 0%, #222222 100%)!important",
+      "emulatorScreen": "",
+      "triggerL": "background-color: #D20014;color:red",
+      "triggerR": "background-color: #D20014;color:red",
+      "center": "background-color: #363636;color:gray",
+      "right": "background-color: #363636;color:gray",
+      "left": "background-color: #363636;color:gray",
+      "up": "background-color: #363636;color:gray",
+      "down": "background-color: #363636;color:gray",
+      "aBtn": "background-color: #D20014;color:red",
+      "bBtn": "background-color: #D20014;color:red",
+      "startBtn": "background-color: #333030;color:gray",
+      "select": "background-color: #333030;color:gray",
+      "custom": [
+        {
+          "igba": ".searchbar {background-color:#222222!important;color:white!important} #gamesLibraryList {background-color: #1e1e1e;color:white} .name {color:#9d9d9d!important} /*.f7-icons, .icon {color: #f75558!important}*/ .list-button.item-link.color-red {background-color:#222222;color:#f75558} .list-button.item-link.color-blue {background-color:#222222;color:#37d8a8!important} .button-fill {color:white!important} b {color:#9d9d9d!important} .button-round {background: #444444!important;color:white!important} .content-block-inner {background-image: linear-gradient(-180deg, #444444 0%, #333333 100%)!important;} .item-link {background-color:#222222;color:#f75558} .statusbar-overlay {background-color:#222222!important;color:white!important}",
+          "eclipse": "#categories>.item-divider {background-color:#222222;color:white!important} div.block.inset {background-color:transparent!important} .dialog-input {color:black!important} #featured-skins, #featured-repos, .popup {background-color:#1e1e1e} h1, #systemsList, input, .item-footer, .item-title.item-label, .card-footer, .block-title {color:white!important} .searchbar {background-color:#222222!important;color:white!important} #gamesLibraryList {background-color: #1e1e1e;color:white} .name {color:#9d9d9d!important} /*.f7-icons, .icon {color: #f75558!important}*/ .list-button.item-link.color-red {background-color:#222222;color:#f75558} .list-button.item-link.color-blue {background-color:#222222;color:#37d8a8!important} .button-fill {color:white!important} b {color:#9d9d9d!important} .button-round {background: #444444!important;color:white!important} .content-block-inner {background-image: linear-gradient(-180deg, #444444 0%, #333333 100%)!important;} .item-link {background-color:#222222;color:#f75558} .statusbar-overlay {background-color:#222222!important;color:white!important}"
+        }
+      ]
+    }
+  ]
+}
