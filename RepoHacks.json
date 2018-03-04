@@ -1,0 +1,47 @@
+{
+  "reponame": "Hud's NES Library",
+  "repologo": "https://lh3.googleusercontent.com/-QURTgm4y_9s/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfwnN2pRGGAeXgVjNM5GrF7LFkBWyg/mo/photo.jpg",
+  "repoauthor": "HudU",
+  "repodesc": "Retro gaming is cool",
+  "categories": [{
+      "categoryname": "NES",
+      "games": [{
+        "name": "New Super Mario 3 Hack",
+        "link": "https://www.dropbox.com/s/9nhghm7h7vu9tqf/New%20Super%20Mario%20Bros%203.nes?dl=1",
+        "boxart": "https://orig00.deviantart.net/2467/f/2012/179/7/c/super_mario_bros_3_cover_by_sakis25-d556ki3.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Excitebike 2 Hack",
+        "link": "https://www.dropbox.com/s/0jdgxh72maf5rvb/Excitebike%202.nes?dl=1",
+        "boxart": "https://www.gamereproductions.com/images/detailed/1/Excitebike_2small.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Bioforce Ape Prototype",
+        "link": "https://www.dropbox.com/s/ok5y51bkamuhyfz/Bio%20Force%20Ape.nes?dl=1",
+        "boxart": "https://www.retrogamecases.com/wp-content/uploads/nes_bioforceape_front.png",
+        "system": "NES"
+      },
+      {
+        "name": "Super Mario Unlimited",
+        "link": "https://www.dropbox.com/s/jmmvy77ir7pbsqo/Super%20Mario%20Bros.%20-%20Unlimited.nes?dl=1",
+        "boxart": "http://i.retroachievements.org/Images/010344.png",
+        "system": "NES"
+      },
+      {
+        "name": "Super Mario Adventure",
+        "link": "https://www.dropbox.com/s/j72f8nin0sagey1/Mario%20Adventure.nes?dl=1",
+        "boxart": "https://gamefiles.alphacoders.com/boxart/original/front/26633-1.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Zelda Outlands",
+        "link": "https://www.dropbox.com/s/dvk9gp0wx6uppdd/Zelda%20Outlands.nes?dl=1",
+        "boxart": "https://retrogameman.files.wordpress.com/2016/09/zeldaol.jpg",
+        "system": "NES"
+        }
+      ]
+    }
+  ]
+}
