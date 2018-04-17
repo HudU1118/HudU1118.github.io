@@ -1,0 +1,77 @@
+{
+  "reponame": "Arcade Classics",
+  "repologo": "https://cdn.piccollage.com/expires_in_days/7/imageassets/f382cc1aeda6f26657b2cfed729aff98/750x750.jpg",
+  "repoauthor": "HudU",
+  "repodesc": "An arcade in your pocket",
+  "categories": [{
+      "categoryname": "Arcade Games",
+      "games": [{
+        "name": "Mario Bros Arcade",
+        "link": "https://www.dropbox.com/s/7ojotgs1lxojb2i/Mario%20Bros%201983.nes?dl=1",
+        "boxart": "https://arcadespecialties.com/wp-content/uploads/2016/08/Mario-Bros-Arcade-Machine-Sale.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Donkey Kong",
+        "link": "https://www.dropbox.com/s/m6xso7nik5omn1q/Donkey%20Kong.nes?dl=1",
+        "boxart": "http://www.rotheblog.com/images/arcade/classicgames/donkey-kong/donkey-kong-cabinet.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Pacman",
+        "link": "https://www.dropbox.com/s/g7l723vgyjy8l50/Pac-Man.nes?dl=1",
+        "boxart": "https://www.arcaderewind.com.au/wp-content/uploads/2016/10/Arcade-Rewind-60-in-1-upright-machine-img1.jpg",
+        "system": "NES"
+      },
+            {
+        "name": "DigDug",
+        "link": "https://www.dropbox.com/s/dql6cd2enxt51z0/Dig%20Dug.nes?dl=1",
+        "boxart": "https://www.videoamusement.com/wp-content/uploads/2014/12/Dig-Dug-Atari-Arcade.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Double Dragon",
+        "link": "https://www.dropbox.com/s/bbkcwlwzfpsyhip/Double%20Dragon.nes?dl=1",
+        "boxart": "https://myarcademachine.com/wp-content/uploads/2017/06/my-arcade-gaming-multi-games-cabinet-buy-sell-shop-boutique-new-find-where-double-dragon-09.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Galaga",
+        "link": "https://www.dropbox.com/s/hks21ae39oojk7f/Galaga.nes?dl=1",
+        "boxart": "https://arcadespecialties.com/wp-content/uploads/2016/08/vintage.galaga.video_.arcade.game_.for_.sale_.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "QBERT",
+        "link": "https://www.dropbox.com/s/k6xrdww74keflez/Q-bert.nes?dl=1",
+        "boxart": "https://www.arcadepartyrental.com/wp-content/uploads/2014/08/Qbert-Classic-Arcade.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Donkey Kong Jr",
+        "link": "https://www.dropbox.com/s/c98ivtu2hmu7cf2/Donkey%20Kong%20Jr.nes?dl=1",
+        "boxart": "https://www.arcade-museum.com/images/106/1064497058.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Space Invaders",
+        "link": "https://www.dropbox.com/s/g18bt4em3j85kn4/Space%20Invaders.nes?dl=1",
+        "boxart": "http://arcadeclassics.com.au/wp-content/uploads/2014/04/space_invaders_1_2.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Millipede",
+        "link": "https://www.dropbox.com/s/uxhli69slmui2qc/Millipede.nes?dl=1",
+        "boxart": "https://arcadespecialties.com/wp-content/uploads/2016/08/Vintage.Millipede.Arcade.Game_.for_.Sale1_.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Joust",
+        "link": "https://www.dropbox.com/s/qgzi0o28kgxcc6u/Joust.nes?dl=1",
+        "boxart": "http://cdn3.volusion.com/xnkfq.azdvr/v/vspfiles/photos/2221-2.jpg",
+        "system": "NES"
+        }
+      ]
+    }
+  ]
+}
