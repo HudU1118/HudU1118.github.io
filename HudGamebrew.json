@@ -1,0 +1,59 @@
+{
+  "reponame": "Hud's Game-brew Games",
+  "repologo": "https://s3.amazonaws.com/wix-anyfile/1KN2WAA2RuyWxu5x3ceZ_Hudboy.jpg",
+  "repoauthor": "HudU",
+  "repodesc": "Contact me for games you want on my repo! HudBudU#4147 on discord or HudU1801 on twitter",
+  "categories": [{
+      "categoryname": "Gameboy",
+      "games": [{
+        "name": "SP 2092",
+        "link": "https://www.dropbox.com/s/1hqf4b8rd0fve9a/SuperPrincess.gb?dl=1",
+        "boxart": "https://i.ytimg.com/vi/1-_vMHIZMBM/hqdefault.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Lumberjack",
+        "link": "https://www.dropbox.com/s/00eaj5h5g144v6u/ind-lj.gb?dl=1",
+        "boxart": "https://i.ytimg.com/vi/vYjZZZlve5Q/maxresdefault.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Retroid",
+        "link": "https://www.dropbox.com/s/wmwnycgs7li70ev/Retroid.gb?dl=1",
+        "boxart": "http://www.retrocollect.com/images/plg_imagesized/2698-retroid-arkanoid-clone-for-game-boy.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Guns & Riders",
+        "link": "https://www.dropbox.com/s/x9pfq4rii6urroh/gunsriders.gb?dl=1",
+        "boxart": "https://m.gjcdn.net/screenshot-thumbnail/300x300/440173-v3.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Sheep It UP!",
+        "link": "https://www.dropbox.com/s/wz07kb0e2t71oy1/sheepitup.gb?dl=1",
+        "boxart": "https://m.gjcdn.net/screenshot-thumbnail/300x300/440173-v3.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Carazu",
+        "link": "https://www.dropbox.com/s/yzz43cknp2icfmj/carazu.gb?dl=1",
+        "boxart": "https://channard.files.wordpress.com/2017/11/angespielt-carazu-1.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "LazerPong",
+        "link": "https://www.dropbox.com/s/kliwg7jj099m4wb/lazerpong.gb?dl=1",
+        "boxart": "https://channard.files.wordpress.com/2017/11/angespielt-lazerpong-1.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "FlappyBird",
+        "link": "https://www.dropbox.com/s/cw2hbdrkvmuyhxz/fbgb.gb?dl=1",
+        "boxart": "https://i.ytimg.com/vi/L1arYXOawP8/maxresdefault.jpg",
+        "system": "GB"
+        }
+      ]
+    }
+  ]
+}
